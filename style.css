@@ -24,7 +24,7 @@ body {
     height: 150px;
     border-radius: 50%;
     background-position: center;
-    background-image: url(./assets/istockphoto-1201252148-612x612.jpg);
+    background-image: url(\\wsl.localhost\Ubuntu\home\angela_\Development\code\se-prep\my_personal_website\assets\istockphoto-1201252148-612x612.jpg);
     background-size: cover;
     overflow: hidden;
     border: 4px solid #fff;
